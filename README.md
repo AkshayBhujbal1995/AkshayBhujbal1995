@@ -39,6 +39,9 @@
   <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-9D9D9D?logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
 
 ---
