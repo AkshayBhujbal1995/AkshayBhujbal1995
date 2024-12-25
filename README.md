@@ -3,9 +3,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Data-science-process.png" alt="Data Science Process" width="600"/>
-</p>
+
 
 ---
 
