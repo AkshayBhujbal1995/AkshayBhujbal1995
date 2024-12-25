@@ -3,7 +3,7 @@
 
 ---
 
-<p  align="center"><img height="380" src = "https://github.com/AkshayBhujbal1995/AkshayBhujbal1995/blob/main/ab.gif"></p>
+<p  align="center"><img height="380" src = "https://github.com/AkshayBhujbal1995/AkshayBhujbal1995/blob/main/MYGITHUB.gif"></p>
 
 ---
 
