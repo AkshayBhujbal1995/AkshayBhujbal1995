@@ -1,4 +1,3 @@
-
 ### **🚀 Welcome to My Data World: Akshay Bhujbal**  
 #### **💡 Transforming Raw Data into Meaningful Insights & Business Impact**  
 
@@ -71,6 +70,21 @@
 - **Tech Stack:** Power BI, SQL, Data Cleaning.  
 - **GitHub Repo:** [Amazon Prime Dashboard](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)  
 
+📌 **AI Resume Screener**  
+- Created an **AI system** to automatically rank resumes based on job descriptions using **TF-IDF** and **Cosine Similarity**.  
+- **Tech Stack:** Python, TF-IDF, Cosine Similarity, Natural Language Processing (NLP).  
+- **GitHub Repo:** [AI Resume Screener](https://github.com/AkshayBhujbal1995/AI_Resume_Screener)  
+
+📌 **Anomaly Detection in Time Series Data**  
+- Developed a system to detect anomalies in **time series data** using **autoencoders**.  
+- **Tech Stack:** Python, TensorFlow, Keras, Scikit-learn, Pandas.  
+- **GitHub Repo:** [Anomaly Detection in Time Series Data](https://github.com/AkshayBhujbal1995/Anomaly-Detection-in-Time-Series-Data)  
+
+📌 **Predicting Listing Gains in the Indian IPO Market Using TensorFlow**  
+- Built a machine learning model to predict **IPO listing day gains**.  
+- **Tech Stack:** Python, TensorFlow, Keras.  
+- **GitHub Repo:** [IPO Prediction](https://github.com/AkshayBhujbal1995/Predicting-Listing-Gains-in-the-Indian-IPO-Market-Using-TensorFlow)  
+
 ---
 
 ### **🎯 My Mission**  
@@ -82,4 +96,3 @@ To **empower businesses through data analytics** by transforming raw data into *
 *"Data tells a story—I make sure it’s a compelling one!"* 🚀  
 
 💡 **Let’s connect and create data-driven success stories together!**  
-
