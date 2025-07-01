@@ -1,98 +1,79 @@
-### **🚀 Welcome to My Data World: Akshay Bhujbal**  
-#### **💡 Transforming Raw Data into Meaningful Insights & Business Impact**  
+
+## Hi there 👋
+
+<h1 align="center">👋 Hi, I'm Akshay Bhujbal – Data Analyst | Future AI Engineer | Exploring Generative AI</h1>
+
+
+<p align="center">
+  🚀 Passionate about transforming raw data into insights <br>
+  🔧 Always learning: Python, ML, Power BI, and SQL <br>
+  📊 Visual thinker who loves dashboards, code, and stories that numbers tell
+</p>
 
 ---
 
-<p align="center"><img height="380" src="https://github.com/AkshayBhujbal1995/AkshayBhujbal1995/blob/main/MYGITHUB.gif"></p>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBhujbal1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshayBhujbal1995&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBhujbal1995&layout=compact&theme=tokyonight&hide_border=true" height="150">
+</p>
 
 ---
 
-### **🌟 About Me**  
-- 📊 **Data Analyst:** Passionate about **data-driven decision-making, business intelligence, and process optimization**.  
-- 🏢 **Professional Experience:** Leveraging **Python, SQL, SAS Base, Tableau, and Power BI** to extract insights and build interactive dashboards.  
-- 📚 **Continuous Learner:** Exploring **ETL processes, predictive analytics, and machine learning**.  
-- 🎯 **Goal:** To **master advanced statistical modeling, AI-driven analytics, and automation**.  
-- 🔍 **Problem-Solver:** Skilled in transforming **complex data into actionable insights** for business growth.  
+### 🧪 About Me
+
+- 📊 **Data Analyst** skilled in Excel, Power BI, Tableau, SQL, and Python
+- 🧬 From dashboards to machine learning, I turn messy data into smart decisions
+- 📈 Building scalable projects with clean code and business logic
+- 🌍 Currently based in **Pune, India**
 
 ---
 
-### **🌐 Connect with Me**  
+<img align="right" alt="Coder GIF" height=200 width=260 src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+
+### 🔧 Tech I Use:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="30" alt="Tableau" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black" height="30" alt="Power BI" />
+</div>
+
+---
+
+### 🚀 Projects That Define Me
+
+- 📈 [Amazon Prime Video Dashboard (Power BI)](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)
+- 🌐 [Google Trends Job Search Analysis](https://github.com/AkshayBhujbal1995/Google-Search-Analysis-with-Python)
+- 🏛️ [House Price Prediction with ML](https://github.com/AkshayBhujbal1995/house-price-ML-EDA-project)
+- 🚀 [IPO Listing Gain Predictor (TensorFlow)](https://github.com/AkshayBhujbal1995/Predicting-Listing-Gains-in-the-Indian-IPO-Market-Using-TensorFlow)
+- 👨‍💼 [AI Resume Screener (TF-IDF + NLP)](https://github.com/AkshayBhujbal1995/AI_Resume_Screener)
+
+---
+
+### 📢 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/akshay-1995-bhujbal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:akshay.bhujbal16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" height="35" />
   </a>
-</p>  
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" height="35" />
+  </a>
+</p>
 
 ---
 
-### **🛠️ My Data Toolkit**  
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SAS-005BAC?logo=SAS&logoColor=white" alt="SAS" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=Power%20BI&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=Microsoft%20Excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Seaborn-9D9D9D?logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
-</p>  
+  🎉 Let's collaborate and make the data world smarter together!
+</p>
 
----
-
-### **📈 My Approach to Data Analysis**  
-1️⃣ **Define the Problem:** Identify key objectives and business challenges.  
-2️⃣ **Collect & Clean Data:** Utilize **SQL, Python, and APIs** for gathering and preprocessing datasets.  
-3️⃣ **Analyze & Model:** Apply **statistical techniques, SAS procedures, and predictive modeling** for insights.  
-4️⃣ **Visualize:** Create **interactive dashboards** in **Tableau, Power BI, and Excel**.  
-5️⃣ **Deliver & Optimize:** Generate **data-driven solutions** to improve efficiency and decision-making.  
-
----
-
-### **🌟 Featured Projects**  
-📌 **House Price Analysis & Prediction**  
-- Built a **90% accurate machine learning model** for predicting real estate prices.  
-- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.  
-- **GitHub Repo:** [House Price Analysis](https://github.com/AkshayBhujbal1995/house-price-ML-EDA-project)  
-
-📌 **Google Search Trend Analysis**  
-- Identified global job market patterns using **Google Trends API (PyTrends)**.  
-- **Tech Stack:** Python, Data Visualization, PyTrends.  
-- **GitHub Repo:** [Google Search Analysis](https://github.com/AkshayBhujbal1995/Google-Search-Analysis-with-Python)  
-
-📌 **Amazon Prime Video Dashboard**  
-- Built an **interactive Power BI dashboard** analyzing content trends and audience behavior.  
-- **Tech Stack:** Power BI, SQL, Data Cleaning.  
-- **GitHub Repo:** [Amazon Prime Dashboard](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)  
-
-📌 **AI Resume Screener**  
-- Created an **AI system** to automatically rank resumes based on job descriptions using **TF-IDF** and **Cosine Similarity**.  
-- **Tech Stack:** Python, TF-IDF, Cosine Similarity, Natural Language Processing (NLP).  
-- **GitHub Repo:** [AI Resume Screener](https://github.com/AkshayBhujbal1995/AI_Resume_Screener)  
-
-📌 **Anomaly Detection in Time Series Data**  
-- Developed a system to detect anomalies in **time series data** using **autoencoders**.  
-- **Tech Stack:** Python, TensorFlow, Keras, Scikit-learn, Pandas.  
-- **GitHub Repo:** [Anomaly Detection in Time Series Data](https://github.com/AkshayBhujbal1995/Anomaly-Detection-in-Time-Series-Data)  
-
-📌 **Predicting Listing Gains in the Indian IPO Market Using TensorFlow**  
-- Built a machine learning model to predict **IPO listing day gains**.  
-- **Tech Stack:** Python, TensorFlow, Keras.  
-- **GitHub Repo:** [IPO Prediction](https://github.com/AkshayBhujbal1995/Predicting-Listing-Gains-in-the-Indian-IPO-Market-Using-TensorFlow)  
-
----
-
-### **🎯 My Mission**  
-To **empower businesses through data analytics** by transforming raw data into **valuable insights, automating processes, and optimizing decision-making**. Whether it's **building predictive models, improving operational efficiency, or visualizing trends**, I am committed to **solving real-world problems through data**.  
-
----
-
-### **📊 Fun Fact**  
-*"Data tells a story—I make sure it’s a compelling one!"* 🚀  
-
-💡 **Let’s connect and create data-driven success stories together!**  
