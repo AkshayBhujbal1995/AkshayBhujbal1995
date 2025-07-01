@@ -1,13 +1,11 @@
 
-## Hi there 👋
-
-<h1 align="center">👋 Hi, I'm Akshay Bhujbal – Data Analyst | Future AI Engineer | Exploring Generative AI</h1>
+<h1 align="center"> Hi, I'm Akshay Bhujbal – Data Analyst | Future AI Engineer | Exploring Generative AI</h1>
 
 
 <p align="center">
-  🚀 Passionate about transforming raw data into insights <br>
-  🔧 Always learning: Python, ML, Power BI, and SQL <br>
-  📊 Visual thinker who loves dashboards, code, and stories that numbers tell
+  Passionate about transforming raw data into insights <br>
+  Always learning: Python, ML, Power BI, and SQL <br>
+  Visual thinker who loves dashboards, code, and stories that numbers tell
 </p>
 
 ---
