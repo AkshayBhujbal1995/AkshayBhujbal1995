@@ -2,11 +2,19 @@
 <h1 align="center"> Hi, I'm Akshay Bhujbal – Data Analyst | Future AI Engineer | Exploring Generative AI</h1>
 
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&center=true&width=500&lines=Turning+raw+data+into+insights;Building+dashboards+that+drive+decisions;Exploring+AI%2C+ML%2C+LLMs%2C+Generative+AI;Learning+Power+BI%2C+Pyt
 <p align="center">
   Passionate about transforming raw data into insights <br>
   Always learning: Python, ML, Power BI, and SQL <br>
   Visual thinker who loves dashboards, code, and stories that numbers tell
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&width=500&lines=Turning+data+into+decisions;Always+learning+Python%2C+ML%2C+SQL%2C+Power+BI;Building+dashboards+that+speak+business;Exploring+Generative+AI+and+LLMs" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -23,7 +31,8 @@
 - 📊 **Data Analyst** skilled in Excel, Power BI, Tableau, SQL, and Python
 - 🧬 From dashboards to machine learning, I turn messy data into smart decisions
 - 📈 Building scalable projects with clean code and business logic
-- 🌍 Currently based in **Pune, India**
+- 🌍 Working from **India | Collaborating Worldwide**
+
 
 ---
 
@@ -38,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="30" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="30" alt="Tableau" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black" height="30" alt="Power BI" />
 </div>
 
