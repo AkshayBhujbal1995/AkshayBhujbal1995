@@ -12,7 +12,7 @@
   Visual thinker who loves dashboards, code, and stories that numbers tell
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&width=500&lines=Turning+data+into+decisions;Always+learning+Python%2C+ML%2C+SQL%2C+Power+BI;Building+dashboards+that+speak+business;Exploring+Generative+AI+and+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&width=500&lines=Turning+data+into+decisions;Always+learning+Python%2C+ML%2C+SQL%2C+Power+BI; Building+dashboards+that+speak+business;Exploring+Generative+AI+and+LLMs" alt="Typing SVG" />
 </p>
 
 
