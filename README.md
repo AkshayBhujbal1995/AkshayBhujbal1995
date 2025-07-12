@@ -47,9 +47,22 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black" style="height: 20px;" alt="Power BI" />
 </div>
 
+---
 
 ### 🚀 Projects That Define Me
 
+#### 🧠 Latest AI & Generative AI Projects
+- 🔁 [Multimodal Gemini App with Streamlit (Text + Image)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multi_Model_With_streamlit)
+- 💬 [Text Generation with Gemini (Google GenAI)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_Generation_with_AI)
+- 🖼️ [Image to Text using Gemini AI](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Image_To_Text_Generation_with_AI)
+- 📊 [EDA Powered by LLM (AI-Assisted)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/EDA_with_LLM)
+
+#### 📚 Statistics & Machine Learning Projects
+- 📈 [Descriptive Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Descriptive_Stats_Project)
+- 🔬 [Inferential Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Inferential_Statistics_Project)
+- 💸 [Salary Prediction App (Simple Linear Regression)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Salary_Prediction_App)
+
+#### 📊 Business Dashboards & ML
 - 📈 [Amazon Prime Video Dashboard (Power BI)](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)
 - 🌐 [Google Trends Job Search Analysis](https://github.com/AkshayBhujbal1995/Google-Search-Analysis-with-Python)
 - 🏛️ [House Price Prediction with ML](https://github.com/AkshayBhujbal1995/house-price-ML-EDA-project)
