@@ -30,15 +30,11 @@
 
 ### 🧪 About Me
 
-🧙‍♂️ I turn raw data into magical insights — part analyst, part engineer, full-time learner
-
-🔬 Building cool things with Python, SQL, ML, and Dashboards
-
-🤯 Recently obsessed with LLMs, generative AI, and automating workflows
-
-📦 Every project is a new experiment in prediction, design, and storytelling
-
-🌍 Living in India, collaborating with the world
+* 🧙‍♂️ I turn raw data into magical insights — part analyst, part engineer, full-time learner
+* 🔬 Building cool things with Python, SQL, ML, and Dashboards
+* 🤯 Recently obsessed with LLMs, generative AI, and automating workflows
+* 📦 Every project is a new experiment in prediction, design, and storytelling
+* 🌍 Living in India, collaborating with the world
 
 
 
