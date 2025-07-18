@@ -7,9 +7,14 @@
 ---
 
 <p align="center">
-  Passionate about transforming raw data into insights <br>
-  Always learning: Python, ML, Power BI, and SQL <br>
-  Visual thinker who loves dashboards, code, and stories that numbers tell
+   <p align="center">
+  📊 <strong>Data Analyst</strong> with a passion for transforming data into intelligent systems <br>
+  🤖 Actively transitioning into <strong>AI, Machine Learning & LLM Engineering</strong> <br>
+  🛠️ Tools: Python, SQL, Power BI, Scikit-learn, Pandas, NumPy, LangChain, OpenAI APIs <br>
+  📚 Exploring Regression, NLP, Transformers, and Generative AI through real-world projects <br>
+  🌍 Based in <strong>India</strong> | Open to global collaboration & AI innovation
+</p>
+
 </p>
 
 ---
@@ -24,10 +29,17 @@
 
 ### 🧪 About Me
 
-- 📊 **Data Analyst** skilled in Excel, Power BI, Tableau, SQL, and Python  
-- 🧬 From dashboards to machine learning, I turn messy data into smart decisions  
-- 📈 Building scalable projects with clean code and business logic  
-- 🌍 Working from **India | Collaborating Worldwide**
+🧙‍♂️ I turn raw data into magical insights — part analyst, part engineer, full-time learner
+
+🔬 Building cool things with Python, SQL, ML, and Dashboards
+
+🤯 Recently obsessed with LLMs, generative AI, and automating workflows
+
+📦 Every project is a new experiment in prediction, design, and storytelling
+
+🌍 Living in India, collaborating with the world
+
+
 
 ---
 
