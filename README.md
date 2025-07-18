@@ -49,32 +49,44 @@
 
 ---
 
-### 🚀 Projects That Define Me
-
-#### 🧠 Latest AI & Generative AI Projects
-- 🔁 [Multimodal Gemini App with Streamlit (Text + Image)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multi_Model_With_streamlit)
-- 💬 [Text Generation with Gemini (Google GenAI)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_Generation_with_AI)
-- 🖼️ [Image to Text using Gemini AI](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Image_To_Text_Generation_with_AI)
-- 📊 [EDA Powered by LLM (AI-Assisted)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/EDA_with_LLM)
-
-#### 📚 Statistics & Machine Learning Projects
-- 📈 [Descriptive Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Descriptive_Stats_Project)
-- 🔬 [Inferential Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Inferential_Statistics_Project)
-- 💸 [Salary Prediction App (Simple Linear Regression)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Salary_Prediction_App)
-- 🏡 [House Price Prediction WebApp using 13 ML Models](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/House_Price_Prediction_WebApp_using_13_models)
-- 📢 [Text to Speech WebApp](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_To_Speech_WebApp)
-- 🧮 [Polynomial Regression Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Polynomial_Regression)
-- 📊 [Multivariate Linear Regression](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multivariate_Linear_Regression)
-
-#### 📊 Business Dashboards & ML
-- 📈 [Amazon Prime Video Dashboard (Power BI)](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)
-- 🌐 [Google Trends Job Search Analysis](https://github.com/AkshayBhujbal1995/Google-Search-Analysis-with-Python)
-- 🏛️ [House Price Prediction with ML](https://github.com/AkshayBhujbal1995/house-price-ML-EDA-project)
-- 🚀 [IPO Listing Gain Predictor (TensorFlow)](https://github.com/AkshayBhujbal1995/Predicting-Listing-Gains-in-the-Indian-IPO-Market-Using-TensorFlow)
-- 👨‍💼 [AI Resume Screener (TF-IDF + NLP)](https://github.com/AkshayBhujbal1995/AI_Resume_Screener)
+Great question! Yes, we *can* optimize the order for better clarity and impact. Here's a revised version of your `README` section with the **best logical flow**:
 
 ---
 
+### 🚀 Projects That Define Me
+
+#### 🤖 Latest AI & Generative AI Projects
+
+* 🔁 [Multimodal Gemini App with Streamlit (Text + Image)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multi_Model_With_streamlit)
+* 💬 [Text Generation with Gemini (Google GenAI)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_Generation_with_AI)
+* 🖼️ [Image to Text using Gemini AI](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Image_To_Text_Generation_with_AI)
+* 📊 [EDA Powered by LLM (AI-Assisted)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/EDA_with_LLM)
+* 📢 [Text to Speech WebApp](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_To_Speech_WebApp)
+
+
+#### 📚 Statistics Projects
+
+* 📈 [Descriptive Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Descriptive_Stats_Project)
+* 🔬 [Inferential Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Inferential_Statistics_Project)
+
+
+#### 🤖 Machine Learning Projects
+
+* 🏡 [House Price Prediction WebApp using 13 ML Models](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/House_Price_Prediction_WebApp_using_13_models)
+* 💸 [Salary Prediction App (Simple Linear Regression)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Salary_Prediction_App)
+* 🧮 [Polynomial Regression Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Polynomial_Regression)
+* 📊 [Multivariate Linear Regression](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multivariate_Linear_Regression)
+* 👨‍💼 [AI Resume Screener (TF-IDF + NLP)](https://github.com/AkshayBhujbal1995/AI_Resume_Screener)
+* 🚀 [IPO Listing Gain Predictor (TensorFlow)](https://github.com/AkshayBhujbal1995/Predicting-Listing-Gains-in-the-Indian-IPO-Market-Using-TensorFlow)
+
+
+#### 📊 Business Dashboards & Data Analysis
+
+* 📈 [Amazon Prime Video Dashboard (Power BI)](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)
+* 🌐 [Google Trends Job Search Analysis](https://github.com/AkshayBhujbal1995/Google-Search-Analysis-with-Python)
+* 🏛️ [House Price Prediction with ML (Separate Notebook)](https://github.com/AkshayBhujbal1995/house-price-ML-EDA-project)
+
+---
 
 ### 📢 Connect with Me
 
