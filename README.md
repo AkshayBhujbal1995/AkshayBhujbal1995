@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Akshay Bhujbal – Data Analyst | Future AI Engineer | Exploring Generative AI</h1>
+<h1 align="center">Turning Data into Decisions & Code into Intelligence 👨‍💻 </h1>
+<h3 align="center">Data Analyst → AI Engineer in Progress | Exploring Generative AI, LLMs & ML</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=F75C7E&center=true&width=500&lines=Turning+raw+data+into+insights;Building+dashboards+that+drive+decisions;Exploring+AI%2C+ML%2C+LLMs%2C+Generative+AI;Always+learning+Python%2C+SQL%2C+Power+BI" alt="Typing SVG" />
