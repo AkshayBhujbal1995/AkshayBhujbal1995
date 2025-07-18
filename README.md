@@ -61,6 +61,10 @@
 - 📈 [Descriptive Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Descriptive_Stats_Project)
 - 🔬 [Inferential Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Inferential_Statistics_Project)
 - 💸 [Salary Prediction App (Simple Linear Regression)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Salary_Prediction_App)
+- 🏡 [House Price Prediction WebApp using 13 ML Models](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/House_Price_Prediction_WebApp_using_13_models)
+- 📢 [Text to Speech WebApp](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_To_Speech_WebApp)
+- 🧮 [Polynomial Regression Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Polynomial_Regression)
+- 📊 [Multivariate Linear Regression](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multivariate_Linear_Regression)
 
 #### 📊 Business Dashboards & ML
 - 📈 [Amazon Prime Video Dashboard (Power BI)](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)
@@ -70,6 +74,7 @@
 - 👨‍💼 [AI Resume Screener (TF-IDF + NLP)](https://github.com/AkshayBhujbal1995/AI_Resume_Screener)
 
 ---
+
 
 ### 📢 Connect with Me
 
