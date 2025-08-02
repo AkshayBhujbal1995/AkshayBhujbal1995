@@ -63,8 +63,8 @@
 #### ✨ Real-World Impact: AI & Multi-Interface Project
 
 * ⚡ **[Express Wash – Real-Time Smart Laundry App (AI-Assisted Dev with Cursor & Gemini, Multi-Interface, MySQL)](https://github.com/AkshayBhujbal1995/ExpressWash_Online)**
-    * *Online Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Online](https://github.com/AkshayBhujbal1995/ExpressWash_Online)
-    * *Offline Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Offline](https://github.com/AkshayBhujbal1995/ExpressWash_Offline)
+    * *Online Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Online](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Online-System)
+    * *Offline Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Offline](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Offline-System)
 
 
 #### 🤖 Latest AI & Generative AI Projects
