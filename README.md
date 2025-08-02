@@ -60,6 +60,13 @@
 
 ### 🚀 Projects That Define Me
 
+#### ✨ Real-World Impact: AI & Multi-Interface Project
+
+* ⚡ **[Express Wash – Real-Time Smart Laundry App (AI-Assisted Dev with Cursor & Gemini, Multi-Interface, MySQL)](https://github.com/AkshayBhujbal1995/ExpressWash_Online)**
+    * *Online Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Online](https://github.com/AkshayBhujbal1995/ExpressWash_Online)
+    * *Offline Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Offline](https://github.com/AkshayBhujbal1995/ExpressWash_Offline)
+
+
 #### 🤖 Latest AI & Generative AI Projects
 
 * 🔁 [Multimodal Gemini App with Streamlit (Text + Image)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multi_Model_With_streamlit)
