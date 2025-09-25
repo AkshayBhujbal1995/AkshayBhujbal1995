@@ -9,7 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - uses: actions/checkout@v2
+
+      # Step 2: Generate the contribution snake
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -17,6 +20,15 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git config --local user.email "action@github.com" && git config --local user.name "GitHub Action"
-      - run: git add -A && git commit -m "Generate Contribution Snake" || exit 0
-      - run: git push
+      # Step 3: Configure Git
+      - run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      # Step 4: Commit only if there are changes
+      - run: |
+          git add -A
+          git diff --cached --quiet || git commit -m "Generate Contribution Snake"
+
+      # Step 5: Push changes using GitHub token
+      - run: git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
