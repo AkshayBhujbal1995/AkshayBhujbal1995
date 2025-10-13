@@ -12,7 +12,11 @@ jobs:
       # Step 1: Checkout the repository
       - uses: actions/checkout@v2
 
-      # Step 2: Generate the contribution snake
+      # Step 2: Ensure output folder exists
+      - name: Create output folder
+        run: mkdir -p dist
+
+      # Step 3: Generate the contribution snake
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -20,15 +24,18 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step 3: Configure Git
-      - run: |
+      # Step 4: Configure Git
+      - name: Configure Git
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      # Step 4: Commit only if there are changes
-      - run: |
+      # Step 5: Commit only if there are changes
+      - name: Commit changes if any
+        run: |
           git add -A
           git diff --cached --quiet || git commit -m "Generate Contribution Snake"
 
-      # Step 5: Push changes using GitHub token
-      - run: git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+      # Step 6: Push changes using GitHub token
+      - name: Push changes
+        run: git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
