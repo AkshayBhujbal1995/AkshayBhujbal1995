@@ -1,105 +1,89 @@
+
+
 <h1 align="center">Turning Data into Decisions & Code into Intelligence 👨‍💻 </h1>
-<h3 align="center"> Data Analyst | Aspiring AI & Generative AI Engineer</h3>
+<h3 align="center">AI Engineer | Machine Learning Specialist | Generative AI, LLMs & ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=F75C7E&center=true&width=500&lines=Turning+raw+data+into+insights;Building+dashboards+that+drive+decisions;Exploring+AI%2C+ML%2C+LLMs%2C+Generative+AI;Always+learning+Python%2C+SQL%2C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=78C6A5&center=true&width=500&lines=From+Data+to+Decision+in+Code;Building+Intelligent+Systems+with+ML;Crafting+Solutions+with+Generative+AI;Bridging+Analysis+and+Engineering" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
   📊 <strong>AI & Generative AI Enthusiast</strong> passionate about building intelligent systems and automating workflows <br>
-  🤖 Actively working on <strong>LLMs, Generative AI, and AI-driven Applications</strong> <br>
-  🛠️ Tech Stack: Python, SQL, Pandas, NumPy, Scikit-learn, LangChain, OpenAI & Google GenAI APIs, Power BI <br>
-  📚 Exploring NLP, Transformers, RAG, and AI/ML pipelines through hands-on projects <br>
+  🤖 Actively working on <strong>LLMs, Generative AI, RAG Systems & AI-driven Applications</strong> <br>
+  🛠️ Tech Stack: Python, SQL, Pandas, NumPy, Scikit-learn, LangChain, OpenAI & Google GenAI APIs, TensorFlow, Power BI <br>
+  📚 Exploring NLP, Transformers, Deep Learning, and AI/ML pipelines through hands-on projects <br>
   🌍 Based in <strong>India</strong> | Open to remote/global AI collaborations
 </p>
 
-</p>
+---
+
+### 💼 Portfolio Highlights
+
+Welcome to my portfolio of **end-to-end AI, ML & Generative AI projects**. Here you'll find work ranging from predictive analytics and data visualization to building intelligent agents and AI-powered applications.
 
 ---
+
+## ✨ Featured Portfolio Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🤝 **AI-Driven HR Onboarding Agent** | Automates HR workflows including onboarding, leave management, meetings, ticketing & email using MCP server–client architecture and Claude Desktop. | [View Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Showcase-Projects/AI-Driven-HR-Onboarding-Agent) |
+| 🤖 **AI Business Research Copilot (RAG System)** | RAG-powered local LLM copilot that scrapes web data, stores it in a vector database, and answers queries contextually. | [View Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Showcase-Projects/AI-Business-Research-Copilot) |
+| 🍎 **Fruit Freshness Classification** | CNN-based deep learning project for fruit quality inspection and classification using computer vision. | [View Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Showcase-Projects/Fruit-Freshness-Classification) |
+| 🛒 **Retail Sales Forecasting** | Hybrid ML + LSTM model predicting weekly retail sales, with interactive historical vs predicted comparison charts. | [View Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Showcase-Projects/Retail-Sales-Forecasting) |
+| 📉 **Customer Churn Prediction** | Predictive analytics model forecasting customer attrition, deployed via Streamlit with dynamic visualization. | [View Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Showcase-Projects/Customer-Churn-Prediction) |
+| 💳 **Credit Card Fraud Detection** | ML model and Streamlit app detecting fraudulent transactions using Random Forest & anomaly detection. | [View Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Showcase-Projects/Credit-Card-Fraud-Detection) |
+| ⚡ **Express Wash – Smart Laundry App** | Real-time, multi-interface laundry system developed with AI assistance for tracking, billing & communication. | [🌐 Online](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Online-System) | [💻 Offline](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Offline-System) |
+
+---
+
+## 🛠 My AI & ML Toolkit
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBhujbal1995&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshayBhujbal1995&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBhujbal1995&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF4D4D?style=for-the-badge&logo=Hugging%20Face&logoColor=white" alt="Hugging Face Badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Badge" />
 </p>
 
 ---
 
-### 🧪 About Me
+## 📚 Other Explorations
 
-* 🧙‍♂️ I turn raw data into magical insights — part analyst, part engineer, full-time learner
-* 🔬 Building cool things with Python, SQL, ML, and Dashboards
-* 🤯 Recently obsessed with LLMs, generative AI, and automating workflows
-* 📦 Every project is a new experiment in prediction, design, and storytelling
-* 🌍 Living in India, collaborating with the world
+### Data Analytics & Statistics
+* [Descriptive Stats Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Analytics/Descriptive-Stats-Project) 📈
+* [EDA with LLM](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Analytics/EDA-with-LLM) 🤖
+* [Inferential Statistics Project](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Analytics/Inferential-Statistics-Project) 🔬
 
+### Machine Learning & AI
+* [House Price Prediction](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/House-Price-Prediction-WebApp-using-13-models) 🏡
+* [Salary Prediction App](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/Salary-Prediction-App) 💰
+* [Student Marks Predictor](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Data-Science-ML/Student-Mark-Predictor-Flask-End-to-End) 🧑‍🎓
+* [AI Resume Screener (TF-IDF + NLP)](https://github.com/AkshayBhujbal1995/AI_Resume_Screener) 👨‍💼
 
+### Deep Learning & Computer Vision
+* [YOLOv8 Object Detection](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Deep-Learning/Deep-Learning-YOLOv8-Object-Detection-Image-Video-Webcam) 👀
+* [Multi-Color Detection with OpenCV](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Deep-Learning/Multi-Color-Detection-with-Python-OpenCV) 🎨
+* [Pedestrian Detection HOG + SVM](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Deep-Learning/Pedestrian-Detection-with-OpenCV-HOG-SVM) 🚶‍♂️
 
----
-
-<img align="right" alt="Coder GIF" height="200" width="260" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
-
-### 🔧 Tech I Use
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 20px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 20px;" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height: 20px;" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height: 20px;" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height: 20px;" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 20px;" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 20px;" alt="Linux" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" style="height: 20px;" alt="Tableau" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black" style="height: 20px;" alt="Power BI" />
-</div>
+### NLP & Generative AI
+* [Rule-Based ChatBot](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/NLP/Rule-Based-ChatBot) 💬
+* [Text Summarization with SpaCy](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/NLP/Text-Summarization-Project-with-SpaCy) 📝
+* [Text-to-Speech Streamlit App](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/NLP/text-to-speech-gtts-streamlit) 🗣️
+* [Image-to-Text Generation with AI](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Generative-AI/Image-To-Text-Generation-with-AI) 🖼️➡️📝
+* [Stable Diffusion Image Generation](https://github.com/AkshayBhujbal1995/AI-Portfolio/tree/main/Learning-Projects/Generative-AI/image-generation-using-stable-diffusion-and-gradio) ✍️➡️🖼️
 
 ---
 
-### 🚀 Projects That Define Me
-
-#### ✨ Real-World Impact: AI & Multi-Interface Project
-
-* ⚡ **Express Wash – Real-Time Smart Laundry App (AI-Assisted Dev with Cursor & Gemini, Multi-Interface, MySQL)**
-    * *Online Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Online](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Online-System)
-    * *Offline Version*: [https://github.com/AkshayBhujbal1995/ExpressWash_Offline](https://github.com/AkshayBhujbal1995/ExpressWash-Desktop-Version-Offline-System)
-
-
-#### 🤖 Latest AI & Generative AI Projects
-
-* 🔁 [Multimodal Gemini App with Streamlit (Text + Image)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multi_Model_With_streamlit)
-* 💬 [Text Generation with Gemini (Google GenAI)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_Generation_with_AI)
-* 🖼️ [Image to Text using Gemini AI](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Image_To_Text_Generation_with_AI)
-* 📊 [EDA Powered by LLM (AI-Assisted)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/EDA_with_LLM)
-* 📢 [Text to Speech WebApp](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Text_To_Speech_WebApp)
-
-
-#### 📚 Statistics Projects
-
-* 📈 [Descriptive Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Descriptive_Stats_Project)
-* 🔬 [Inferential Statistics Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Inferential_Statistics_Project)
-
-
-#### 🤖 Machine Learning Projects
-
-* 🏡 [House Price Prediction WebApp using 13 ML Models](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/House_Price_Prediction_WebApp_using_13_models)
-* 💸 [Salary Prediction App (Simple Linear Regression)](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Salary_Prediction_App)
-* 🧮 [Polynomial Regression Project](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Polynomial_Regression)
-* 📊 [Multivariate Linear Regression](https://github.com/AkshayBhujbal1995/6_Month_AI_Road_Map_2025/tree/main/Projects/Multivariate_Linear_Regression)
-* 👨‍💼 [AI Resume Screener (TF-IDF + NLP)](https://github.com/AkshayBhujbal1995/AI_Resume_Screener)
-* 🚀 [IPO Listing Gain Predictor (TensorFlow)](https://github.com/AkshayBhujbal1995/Predicting-Listing-Gains-in-the-Indian-IPO-Market-Using-TensorFlow)
-
-
-#### 📊 Business Dashboards & Data Analysis
-
-* 📈 [Amazon Prime Video Dashboard (Power BI)](https://github.com/AkshayBhujbal1995/Amazon-Prime-Video-PowerBI-Dashboard)
-* 🌐 [Google Trends Job Search Analysis](https://github.com/AkshayBhujbal1995/Google-Search-Analysis-with-Python)
-* 🏛️ [House Price Prediction with ML (Separate Notebook)](https://github.com/AkshayBhujbal1995/house-price-ML-EDA-project)
-
----
-
-### 📢 Connect with Me
+## 📢 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/akshay-1995-bhujbal" target="_blank">
@@ -115,8 +99,8 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
-
 <p align="center">
-  🎉 Let's collaborate and make the data world smarter together!
+  🎉 Let's collaborate and build intelligent AI solutions together!
 </p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
