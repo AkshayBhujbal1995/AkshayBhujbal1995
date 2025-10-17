@@ -8,12 +8,11 @@
 ---
 
 <p align="center">
-   <p align="center">
-  📊 <strong>Data Analyst</strong> with a passion for transforming data into intelligent systems <br>
-  🤖 Actively transitioning into <strong>AI, Machine Learning & LLM Engineering</strong> <br>
-  🛠️ Tools: Python, SQL, Power BI, Scikit-learn, Pandas, NumPy, LangChain, OpenAI APIs <br>
-  📚 Exploring Regression, NLP, Transformers, and Generative AI through real-world projects <br>
-  🌍 Based in <strong>India</strong> | Open to global collaboration & AI innovation
+  📊 <strong>AI & Generative AI Enthusiast</strong> passionate about building intelligent systems and automating workflows <br>
+  🤖 Actively working on <strong>LLMs, Generative AI, and AI-driven Applications</strong> <br>
+  🛠️ Tech Stack: Python, SQL, Pandas, NumPy, Scikit-learn, LangChain, OpenAI & Google GenAI APIs, Power BI <br>
+  📚 Exploring NLP, Transformers, RAG, and AI/ML pipelines through hands-on projects <br>
+  🌍 Based in <strong>India</strong> | Open to remote/global AI collaborations
 </p>
 
 </p>
