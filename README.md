@@ -1,11 +1,5 @@
-<div align="center">
-    <a href="https://akshaybhujbal1995.github.io/Portfolio-Website/index.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/AkshayBhujbal1995/AkshayBhujbal1995/main/pro.png" width="180px" alt="Akshay Bhujbal - AI Engineer & Data Analyst">
-    </a>
-    <br>
-    <h1>Akshay Bhujbal</h1>
-    
-# 🚀 Generative AI & Agentic Developer | Scaling LLMs to Production
+
+#  Generative AI & Agentic Developer | Scaling LLMs to Production
 
 | 🧠 **Autonomous AI Agents** | ☁️ **MLOps & Deployment** | 📊 **Data-Driven Solutions** |
     
