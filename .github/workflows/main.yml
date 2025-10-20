@@ -19,7 +19,7 @@ jobs:
 
       # Step 3: Generate the contribution snake
       - name: Generate Contribution Snake
-        uses: Platane/snk@v1.0.3
+        uses: Platane/snk@v1
         with:
           github_user_name: AkshayBhujbal1995
           gif_out_path: dist/github-contribution-grid-snake.gif
