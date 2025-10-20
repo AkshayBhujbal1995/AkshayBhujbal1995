@@ -1,9 +1,6 @@
-
 #  Generative AI & Agentic Developer | Scaling LLMs to Production
 
 | 🧠 **Autonomous AI Agents** | ☁️ **MLOps & Deployment** | 📊 **Data-Driven Solutions** |
-    
-</div>
 
 ---
 
@@ -18,8 +15,6 @@ I am an **AI Engineer** specializing in the full lifecycle of intelligent system
 ---
 
 ### 💻 Production AI & MLOps Toolkit
-
-My proficiency spans the Deep Learning research world and the MLOps production environment.
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
@@ -42,8 +37,6 @@ My proficiency spans the Deep Learning research world and the MLOps production e
 
 ### 🌟 Featured End-to-End Solutions
 
-These projects demonstrate my ability to deliver robust, full-stack AI applications with high business impact.
-
 | Project Focus | Name & Key Technologies | Description & Deployment Focus |
 | :--- | :--- | :--- |
 | **Agentic AI** | 🤝 **AI-Driven HR Onboarding Agent** (`Claude`, `Server-Client Architecture`) | **Multi-agent system** automating HR workflows (onboarding, ticketing, email). Showcases complex orchestration and integration into existing IT infrastructure. |
@@ -52,7 +45,7 @@ These projects demonstrate my ability to deliver robust, full-stack AI applicati
 | **Computer Vision** | 🍎 **Fruit Freshness Classification** (`CNN`, `Computer Vision`) | **End-to-end Deep Learning** solution for image-based quality control. Focuses on dataset preparation, model training/optimization, and practical CV application. |
 | **Predictive Analytics** | 💳 **Credit Card Fraud Detection** (`Random Forest`, `Streamlit`) | **Predictive model** utilizing anomaly detection techniques, demonstrating robust data analysis and packaging the model into a **Streamlit application** for interactive use. |
 
-***
+---
 
 ### 📊 GitHub Stats & Activity
 
@@ -63,7 +56,7 @@ These projects demonstrate my ability to deliver robust, full-stack AI applicati
     <a href="https://github.com/AkshayBhujbal1995">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBhujbal1995&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
     </a>
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
+    <img src="https://raw.githubusercontent.com/AkshayBhujbal1995/AkshayBhujbal1995/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
 </div>
 
 ---
