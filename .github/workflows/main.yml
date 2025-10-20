@@ -17,7 +17,7 @@ jobs:
       - name: Create output folder
         run: mkdir -p dist
 
-      # Step 3: Generate the contribution snake using latest stable version
+      # Step 3: Generate the contribution snake
       - name: Generate Contribution Snake
         uses: Platane/snk@v1.0.3
         with:
@@ -31,12 +31,24 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      # Step 5: Commit changes only if there are any
-      - name: Commit changes if any
+      # Step 5: Check for changes
+      - name: Check for changes
+        id: check_changes
         run: |
-          git add -A
-          git diff --cached --quiet || git commit -m "Generate Contribution Snake"
+          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+          if git diff --cached --quiet; then
+            echo "no_changes=true" >> $GITHUB_ENV
+          else
+            echo "no_changes=false" >> $GITHUB_ENV
+          fi
 
-      # Step 6: Push changes using GitHub token
+      # Step 6: Commit only if there are changes
+      - name: Commit changes
+        if: env.no_changes == 'false'
+        run: |
+          git commit -m "Generate Contribution Snake"
+
+      # Step 7: Push changes only if there are commits
       - name: Push changes
+        if: env.no_changes == 'false'
         run: git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
