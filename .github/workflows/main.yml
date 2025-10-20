@@ -8,17 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       # Step 1: Checkout the repository
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Step 2: Ensure output folder exists
       - name: Create output folder
         run: mkdir -p dist
 
-      # Step 3: Generate the contribution snake
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Step 3: Generate the contribution snake using latest stable version
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v1.0.3
         with:
           github_user_name: AkshayBhujbal1995
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -30,7 +31,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      # Step 5: Commit only if there are changes
+      # Step 5: Commit changes only if there are any
       - name: Commit changes if any
         run: |
           git add -A
