@@ -2,23 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily at midnight
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout repository
       - uses: actions/checkout@v3
 
-      - name: Install Node.js
+      # Step 2: Setup Node.js (required for npm version)
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
 
+      # Step 3: Ensure output folder exists
       - name: Create output folder
         run: mkdir -p dist
 
+      # Step 4: Generate GitHub Snake using npm version
       - name: Generate GitHub Snake
         uses: platane/snk@v3
         with:
@@ -26,7 +30,8 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
 
-      - name: Commit and push if changed
+      # Step 5: Commit and push changes if any
+      - name: Commit changes if any
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
