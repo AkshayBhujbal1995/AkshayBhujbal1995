@@ -2,41 +2,33 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *" # daily at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout repository
+      # Step 1: Checkout the repository
       - uses: actions/checkout@v3
 
-      # Step 2: Ensure output folder exists
+      # Step 2: Create output folder
       - name: Create output folder
         run: mkdir -p dist
 
-      # Step 3: Generate GitHub Contribution Snake
-      - uses: platane/snk@master
+      # Step 3: Generate the contribution snake
+      - name: Generate GitHub Snake
+        uses: platane/snk@master
         with:
           github_user_name: AkshayBhujbal1995
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step 4: Configure Git
-      - name: Configure Git
+      # Step 4: Commit & push changes
+      - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
-      # Step 5: Commit changes if any
-      - name: Commit changes
-        run: |
           git add dist/*
           git diff --cached --quiet || git commit -m "Update GitHub Snake"
-
-      # Step 6: Push changes
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
