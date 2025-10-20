@@ -9,22 +9,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout the repository
       - uses: actions/checkout@v3
 
-      # Step 2: Create output folder
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
       - name: Create output folder
         run: mkdir -p dist
 
-      # Step 3: Generate the contribution snake
       - name: Generate GitHub Snake
-        uses: platane/snk@master
+        uses: platane/snk@v3
         with:
           github_user_name: AkshayBhujbal1995
-          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
-      # Step 4: Commit & push changes
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
